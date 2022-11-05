@@ -1,1 +1,1 @@
-web: gunicorn DRF_Employees_API.wsgi
+web: gunicorn EmployeesApi.wsgi
